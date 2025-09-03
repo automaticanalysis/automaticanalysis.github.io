@@ -8,7 +8,6 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-include-cache"
 end
-gem "webrick", ">= 1.8.2"
+gem "webrick", "~> 1.8"
 gem "nokogiri", ">= 1.12.5"
 gem "commonmarker", ">= 0.23.4"
-gem "rexml", ">= 3.3.9"
